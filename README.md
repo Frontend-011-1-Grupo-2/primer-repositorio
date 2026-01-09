@@ -9,3 +9,11 @@
 ## Repositorio remoto (en GitHub)
 
 1. `git push origin main` `git push <repositorio-remoto> <rama-para-enviar>` Envía los cambios desde el repositorio local al remoto
+
+## Me arrepentí...
+
+1. `git checkout -- <nombre-archivo-a-restaurar>` Descarta los cambios hechos en un archivo del directorio de trabajo y lo devuelve al estado exacto del último commit
+
+## Me arrepentí (segunda opción)
+
+1. `git restore <nombre-archivo>`
